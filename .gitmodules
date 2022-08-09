@@ -1,0 +1,3 @@
+[submodule "SampleGit"]
+	path = SampleGit
+	url = https://github.com/airagene/SampleGit.git
